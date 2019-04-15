@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Task 1",
+    "type": "A",
+    "duration": 2
+  },
+  {
+    "name": "Task 2",
+    "type": "A",
+    "duration": 2
+  },
+  {
+    "name": "Task 3",
+    "type": "C",
+    "duration": 8
+  },
+  {
+    "name": "Task 4",
+    "type": "B",
+    "duration": 5.5
+  },
+  {
+    "name": "Task 6",
+    "type": "B",
+    "duration": 4.7
+  },
+  {
+    "name": "Task 7",
+    "type": "C",
+    "duration": 9
+  },
+  {
+    "name": "Task 8",
+    "type": "C",
+    "duration": 7.5
+  },
+  {
+    "name": "Task 10",
+    "type": "C",
+    "duration": 8.5
+  }
+]

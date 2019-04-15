@@ -1,0 +1,1 @@
+[{"Name":"Worker2","TaskList":[{"Name":"Task 8"},{"Name":"Task 3"},{"Name":"Task 1"}],"TotalTaskDuration":16.75},{"Name":"Worker3","TaskList":[{"Name":"Task 7"},{"Name":"Task 4"},{"Name":"Task 5"}],"TotalTaskDuration":17.25},{"Name":"Worker1","TaskList":[{"Name":"Task 10"},{"Name":"Task 6"},{"Name":"Task 2"},{"Name":"Task 9"}],"TotalTaskDuration":16.85}]
